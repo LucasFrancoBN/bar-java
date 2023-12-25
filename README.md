@@ -14,6 +14,9 @@ Proposto pelo curso DevSuperior, o desafio tem como propósito a leitura e anál
    
 3. **Diagrama de classe UML:**
    - Seguir exatamente o diagrama de classe a seguir:
+
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/bar-java/blob/master/img/diagrama_classe.png)
+
    
 
 ## Exemplo
@@ -40,10 +43,10 @@ Antes de prosseguir com as instruções de uso, é requerido que você tenha em 
 Antes de tudo, recomendo que você, pelo terminal, navegue até o diretório Desktop e rode o comando
 ```bash
 # Clone o repositório
-git clone https://github.com/LucasFrancoBN/atletas-java.git
+git clone https://github.com/LucasFrancoBN/bar-java.git
 
 # Acesse o diretório do projeto
-cd atletas-java/src
+cd bar-java/src
 ```
 Agora basta você digitar no seu terminal
 ```bash
